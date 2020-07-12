@@ -1,5 +1,5 @@
 ### Hello there  😆
-#### I'm a Full-Stack Developer, but i love to work like Front-End Developer 💖
+#### I'm a Full-Stack Developer, but i love to work as Front-End Developer 💖
 
 - 🏢 I’m currently working on **CheckPlant AGTech** 
 - 😁 I’m currently learning **ReactJS** and **React Native**
