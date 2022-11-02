@@ -19,3 +19,5 @@
 - 🌍 Gostaria muito de ser mais ativa em comunidades **Ageis** e **JavaScript**
 - 📫 Você pode me encontrar como: [@lekkinhah](https://twitter.com/lekkinhah)
 - ⚡ Fato curioso: Amoooo gatos 🐱 
+
+[![@lekkinhah's Holopin board](https://holopin.me/lekkinhah)](https://holopin.io/@lekkinhah)
